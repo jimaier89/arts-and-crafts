@@ -1,0 +1,62 @@
+
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("pattern.jpeg");
+    background-size: cover;
+    margin-block-start: auto;
+    margin-block-end: auto;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+}
+
+h4 {
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+
+p {
+    font-family: Helvetica;
+    font-size: 18px;
+}
+
+img {
+    
+}
+
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+.item_name {
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
